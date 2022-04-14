@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dinoivankovic
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning asynchronous JavaScript
+- 🌱 I’m currently learning OOP and asynchronous JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
